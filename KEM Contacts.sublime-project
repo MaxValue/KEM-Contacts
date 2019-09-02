@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "./",
+			"name": "Project",
+			"folder_exclude_patterns": ["__pycache__", "venv", "build-tmp"],
+			"file_exclude_patterns": ["*.zip"]
+		}
+	],
+	"preferences": {
+		"spell_check": false,
+	}
+}
